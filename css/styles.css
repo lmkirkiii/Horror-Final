@@ -1,0 +1,115 @@
+h1 {
+  font-size: 80px;
+}
+
+body{
+  background: black;
+  background-image: url("http://www.pngpix.com/wp-content/uploads/2016/10/PNGPIX-COM-Smoke-PNG-Transparent-Image.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+
+}
+.mindFreak{
+  background-color: black;
+  background-image: url("https://wallpapercave.com/wp/Na9UAEp.jpg");
+  background-size: center;
+}
+
+.notHaunted{
+  background-color: black;
+  background-image: url("http://annemckinnell.com/blog/wp-content/uploads/2012/04/texas_20120306__MG_9464_5_6_tonemapped-Edit-Edit-2.jpg");
+  background-size: cover;
+  /*background-position: cover;*/
+  background-repeat: no-repeat;
+  background-size: center;
+
+}
+.snapchat {
+  background-image: url("https://i1.wp.com/justghostvideos.co/wp-content/uploads/2017/10/Top-10-Original-Paranormal-Activity-Caught-On-Camera-Real-Ghost-Caught-On-CCTV-Camera.jpg?w=1170");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hidden{
+  display: none;
+  color: white;
+}
+.button{
+  cursor: pointer;
+  color: white;
+}
+.button:hover{
+  font-style: italic;
+  color: red;
+}
+
+
+#story-1{
+  display: none;
+  color: white;
+}
+#story-2{
+  display: none;
+  color: white;
+}
+#story-3{
+  display: none;
+  color: white;
+}
+#quiz{
+  display: none;
+  color: white;
+}
+#title{
+  margin-bottom: 5.5em;
+  border: 3px solid white;
+  padding: 5px;
+  color: white;
+  background-image: url("http://pngimg.com/uploads/blood/blood_PNG6116.png");
+}
+#titleTrack{
+  background-image: url("../img/ghost.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 5em;
+
+  color: red;
+  text-align: center;
+  font-family: fantasy;
+}
+#face{
+  height: 90%;
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10em;
+
+}
+#face:hover{
+  background-image: url("https://lawrencegrodecki.files.wordpress.com/2014/09/thesonofman.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#ghostwedding{
+
+  margin-top: 40px;
+  height: 550px;
+  width: 600px;
+
+
+}
+#ghostwedding:hover{
+  background-image: url("http://freepngimages.com/wp-content/uploads/2015/10/skeleton-ghost-transparent-background-image-halloween.png");
+  padding: 15em;
+}
+#mask{
+  margin-top: 5em;
+  padding: 10em;
+}
+#mask:hover{
+  background-image: url("http://www.imarvintpa.com/Mapping/Overlays/Blood/Blood%20splatter%205-sc.png");
+
+}
